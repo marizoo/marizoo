@@ -2,12 +2,15 @@
 
 ![Hi!](https://pbs.twimg.com/profile_banners/1423836260590710785/1628317468/1080x360)
 
-I'm Mz from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
-I still cannot decide to go for Vue or React.. my heart wants 'Vue' but my brain says 'React'... 
+I'm Mz ('emz') from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
+I can't decide to go for Vue or React next.. my heart wants 'Vue', but my brain says 'React'... 
+..oh.. the struggle... 
 
 ### Skills:  JS / HTML / CSS
 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning JS.
+- 👯 I’d love to collaborate on any project.
+- ⚡ Fun fact: 'Some fish would chase the laser pointer light beam underwater, like a cat'
 
 
 
