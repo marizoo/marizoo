@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Mz from Indonesia, I'm currently geeking for JS, CSS, html and the likes....
+I still cannot decide to go for Vue or React.. 
+my heart wants 'Vue' coz' it's open source..
+but brain says 'React' coz of obvious reasons....
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marizoo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **marizoo/marizoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
