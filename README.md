@@ -11,6 +11,7 @@ I'm Mz from Indonesia, a passionate diver and currently geeking for JS, CSS, htm
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@marizoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_marizoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/marizoo)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marizoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
