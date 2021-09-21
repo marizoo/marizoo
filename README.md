@@ -10,7 +10,7 @@ I can't decide to go for Vue or React next.. my heart wants 'Vue', but my brain 
 
 - 🌱 I’m currently learning JS.
 - 👯 I’d love to collaborate on any project.
-- ⚡ Fun fact: 'Some fish would chase the laser pointer light beam underwater, like a cat'
+- ⚡ Fun fact: 'a Sea Snake holds their breath underwater! '
 
 
 
