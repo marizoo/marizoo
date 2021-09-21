@@ -6,11 +6,11 @@ I'm Mz ('emz') from Indonesia, a passionate diver and currently geeking for JS, 
 I can't decide to go for Vue or React next.. my heart wants 'Vue', but my brain says 'React'... 
 ..oh.. the struggle... 
 
-### Skills:  JS / HTML / CSS
+### Skills:  JS / HTML / CSS (+ sass).
 
 - 🌱 I’m currently learning JS.
 - 👯 I’d love to collaborate on any project.
-- ⚡ Fun fact: 'a Sea Snake holds their breath underwater! '
+- ⚡ Fun fact: 'Sea Snake holds their breath underwater! '
 
 
 
