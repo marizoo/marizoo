@@ -4,9 +4,9 @@
 
 I'm Mz ('emz') from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
 
-### Skills:  JS / HTML / CSS (+ sass).
+### Skills:  JS / HTML / CSS (+ styled components).
 
-- 🌱 I’m currently learning React + Gatsby.js 
+- 🌱 I’m currently learning React 
 - 👯 I’d love to collaborate on any project.
 - ⚡ Fun fact: 'Sea Snake holds their breath underwater! '
 
