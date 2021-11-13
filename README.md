@@ -2,11 +2,11 @@
 
 ![Hi!](https://pbs.twimg.com/profile_banners/1423836260590710785/1628317468/1080x360)
 
-I'm Mz ('emz') from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
+I'm Marizoo from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
 
-### Skills:  JS / HTML / CSS (+ styled components).
+### Skills:  HTML + CSS | JavaScript | React + styled components | NodeJs + Express + MongoDB |
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning MERN stack
 - 👯 I’d love to collaborate on any project.
 - ⚡ Fun fact: 'Sea Snake holds their breath underwater! '
 
