@@ -4,7 +4,7 @@
 
 I'm Marizoo from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
 
-### Skills:  HTML + CSS | JavaScript | React + styled components | NodeJs + Express + MongoDB |
+### Skills:  HTML + CSS | JavaScript | MERN stack + Styled Components |
 
 - 🌱 I’m currently learning MERN stack
 - 👯 I’d love to collaborate on any project.
