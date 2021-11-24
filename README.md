@@ -2,9 +2,9 @@
 
 ![Hi!](https://pbs.twimg.com/profile_banners/1423836260590710785/1628317468/1080x360)
 
-I'm Marizoo from Indonesia, a passionate diver and currently geeking for JS, CSS, html and the likes.... 
+I'm Marizoo from Indonesia, a passionate diver and currently geeking for web development.
 
-### Skills:  HTML + CSS | JavaScript | MERN stack + Styled Components |
+### Skills:   | React + Styled Components | JavaScript | HTML + CSS |
 
 - 🌱 I’m currently learning MERN stack
 - 👯 I’d love to collaborate on any project.
