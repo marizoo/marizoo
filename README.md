@@ -6,7 +6,7 @@ I'm Marizoo from Indonesia, a passionate diver and currently geeking for web dev
 
 ### Skills:   | React + Styled Components | JavaScript | HTML + CSS |
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning React
 - 👯 I’d love to collaborate on any project.
 - ⚡ Fun fact: 'Sea Snake holds their breath underwater! '
 
