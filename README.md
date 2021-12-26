@@ -4,7 +4,7 @@
 
 I'm Marizoo from Indonesia, a passionate diver and currently geeking for web development.
 
-### Skills:   | React + Styled Components | JavaScript | HTML + CSS |
+### Skills:   | React | JavaScript | HTML + CSS |
 
 - 🌱 I’m currently learning React
 - 👯 I’d love to collaborate on any project.
