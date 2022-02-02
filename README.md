@@ -6,10 +6,10 @@ I'm Marizoo from Indonesia, a passionate diver and currently geeking for web dev
 
 ### Skills:   | React | JavaScript | HTML + CSS |
 
-### My Pinterest:
+### 😄 My Pinterest:
 https://pin.it/10JUIiM
 
-### My Youtube:
+### ✨ My Youtube:
 https://www.youtube.com/channel/UCfkbnM9WvHD3mjecBiGHCBQ/playlists
 
 ### 📫 Come say 'hi' on Twitter
