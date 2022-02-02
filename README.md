@@ -6,10 +6,18 @@ I'm Marizoo from Indonesia, a passionate diver and currently geeking for web dev
 
 ### Skills:   | React | JavaScript | HTML + CSS |
 
+### My Pinterest:
+https://pin.it/689UxAZ
+
+### My Youtube:
+https://www.youtube.com/channel/UCfkbnM9WvHD3mjecBiG
+
+### 📫 Come say 'hi' on Twitter
+https://twitter.com/_marizoo
+
 - 🌱 I’m currently learning React
 - 👯 I’d love to collaborate on any project.
-- ⚡ Fun fact: 'Sea Snake holds their breath underwater! '
-
+- ⚡ Fun fact: 'I'm a yay for pineapples on Pizzas. Yummmm...'
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@marizoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@_marizoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/marizoo)  
