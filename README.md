@@ -6,8 +6,11 @@ I'm Marizoo from Indonesia, a passionate diver and currently geeking for web dev
 
 ### Skills:   | React | JavaScript | HTML + CSS |
 
+### ⚡ My Portfolio:
+https://marizoo.netlify.app/
+
 ### 💬 My Blog:
-https://hashnode.com/@marizoo
+https://dev.to/marizoo
 
 ### 😄 My Pinterest:
 https://pin.it/10JUIiM
